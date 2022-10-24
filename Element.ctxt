@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Element
+comment1.params=nameIn\ numberIn
+comment1.target=Element(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getElementName()
+comment3.params=
+comment3.target=int\ getAtomicNumber()
+comment4.params=
+comment4.target=int\ findValency()
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Bond
+comment1.params=v1\ v2
+comment1.target=Bond(Symbol,\ Symbol)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+numComments=3

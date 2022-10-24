@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=carbonChain
+comment1.params=carbonIn\ arrIn
+comment1.target=carbonChain(java.util.ArrayList,\ int[][])
+comment10.params=
+comment10.target=java.lang.String\ getHashValue()
+comment2.params=
+comment2.target=int\ getNumOfCarbon()
+comment3.params=
+comment3.target=java.util.ArrayList\ getCarbon()
+comment4.params=carbonPosition
+comment4.target=boolean\ checkConnectionFull(int)
+comment5.params=
+comment5.target=int[][]\ getArrangement()
+comment6.params=newCarbon\ connectedPosition
+comment6.target=void\ extendCarbonChain(Element,\ int)
+comment7.params=
+comment7.target=void\ findMainChain()
+comment8.params=
+comment8.target=void\ findSideChain()
+comment9.params=node1In\ node2In
+comment9.target=java.util.ArrayList\ findCurrentMainChain(int,\ int)
+numComments=11

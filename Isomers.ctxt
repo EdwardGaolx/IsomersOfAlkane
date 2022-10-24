@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Isomers
+comment1.params=compoundIn
+comment1.target=Isomers(Compound)
+comment2.params=
+comment2.target=java.util.ArrayList\ findIsomers()
+comment3.params=
+comment3.target=void\ removeRepetition()
+comment4.params=hashIn
+comment4.target=boolean\ checkNumOfC(java.lang.String)
+comment5.params=
+comment5.target=void\ isomerismCountInRepetition()
+numComments=6

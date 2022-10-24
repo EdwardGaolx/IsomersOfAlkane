@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ElementSymbol
+comment1.params=xIn\ yIn\ lengthIn\ letterIn
+comment1.target=ElementSymbol(int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getSymbolLetter()
+comment3.params=
+comment3.target=java.lang.String\ getLetter()
+comment4.params=symbolIn
+comment4.target=boolean\ equals(ElementSymbol)
+comment5.params=g
+comment5.target=void\ paint(java.awt.Graphics)
+numComments=6
